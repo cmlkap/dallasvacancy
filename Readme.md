@@ -3,5 +3,5 @@ Map of All Vacant Properties in Dallas Texas, as of August 2020. Data sourced fr
 Link to site: https://cmlkap.github.io/dallasvacancy/
 CSV of Data:
 Map of Data:
-<iframe source="vacancy1.html"> </iframe>
+<iframe source="vacancts2.html"> </iframe>
 
